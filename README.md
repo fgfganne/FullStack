@@ -1,4 +1,5 @@
-# FullStack
-## 全栈开发，blue大师主讲
+# 全栈开发课程
 
-### 这里的存放的是我的笔记和作业哟····
+## 学员：刘金榜
+#### gitHub账号: https://github.com/fgfganne
+#### CodeWars: https://www.codewars.com/users/foge
